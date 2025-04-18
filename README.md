@@ -1,1 +1,1 @@
-this is california housing project to predict the price of the house
+this is california housing project to predict the price of the houses
